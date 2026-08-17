@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1786941592 source:d:\dsa codes\slist\slist.c
+	<stdlib.h>
+	<stddef.h>
+	<assert.h>
+	"slist.h"
+
+1786936815 source:d:\dsa codes\slist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1786938809 d:\dsa codes\slist\slist.h
+	<stdint.h>
+
